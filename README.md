@@ -1,6 +1,5 @@
 ### Hi, I'm <a href="" target="_blank">Qaroev Bobojon</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### I am Middle Flutter Developer with two years experience building and maintaining Android and IOS Application.
-Having a technical education and a penchant for computer technology, he chose programming and entered the Android development department at Technological University of Tajikistan.
+### I am Middle Flutter Developer with three years experience building and maintaining Android and IOS Application.
 <!--
 **Qaroev/Qaroev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
