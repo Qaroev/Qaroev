@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm <a href="" target="_blank">Qaroev Bobojon</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **Qaroev/Qaroev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
