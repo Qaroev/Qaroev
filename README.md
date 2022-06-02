@@ -59,14 +59,10 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-
 <summary>📈 **My GitHub Stats:**</summary>
 <br>
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Qaroev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qaroev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=Qaroev&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
 
 
 
