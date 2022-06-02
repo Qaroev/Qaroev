@@ -22,10 +22,6 @@
 -   ▶ Supabase
 -   ▶ UI Design and much more
 <br>
-<br>
-<br>
-<br>
-<br>
 <div align="center">
 <p align="center">Let's connect!</p>
 <a href="">
