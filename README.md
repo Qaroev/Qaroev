@@ -1,5 +1,34 @@
-### Hi, I'm <a href="" target="_blank">Qaroev Bobojon</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, I'm  Bobojon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 ### I am Middle Flutter Developer with three years experience building and maintaining Android and IOS Application.
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<div align="center">
+<p align="center">Let's connect!</p>
+<a href="https://www.twitter.com/mhmzdev/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/mhmzdev/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/mhmzdev/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://mhmzdev.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/mhmzdev/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://stackoverflow.com/users/12297382/hamza">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+</div>
+
+<br>
 <!--
 **Qaroev/Qaroev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
