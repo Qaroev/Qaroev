@@ -70,5 +70,5 @@
 
 [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=Qaroev&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qaroev&show_icons=true&theme=midnight-purple&bg_color=FFFFFF00&hide_border=true&icon_color=0cc2cc&hide_title=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qaroev&layout=compact&bg_color=FFFFFF00&hide_border=true&icon_color=0cc2cc)](https://github.com/Qaroev/github-readme-stats)
 
