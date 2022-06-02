@@ -5,6 +5,9 @@
 
 #### Talking about my personal stuff:
 - 👉 Flutter Developer Velox Software
+- 💻 The tech I'm interested Flutter/ML/AR etc.
+- ✨ I'm learning Flutter, Web scrapping, Automations etc.
+
 <br>
 <br>
 <br>
