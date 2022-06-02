@@ -1,6 +1,8 @@
 ### Hey there, I'm  Bobojon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 ### I am Middle Flutter Developer with three years experience building and maintaining Android and IOS Application.
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<br>
+<br>
 <div align="center">
 <p align="center">Let's connect!</p>
 <a href="https://www.twitter.com/mhmzdev/">
