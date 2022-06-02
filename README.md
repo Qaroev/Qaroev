@@ -15,7 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📈 **My GitHub Stats:**
+<div align="center">
+<p align="center">🛠 Tools & Technology</p>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
+
+</div>
+
+<br>
+
+<summary>📈 **My GitHub Stats:**</summary>
+<br>
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Qaroev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
