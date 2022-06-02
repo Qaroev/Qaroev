@@ -1,5 +1,5 @@
 ### Hey there, I'm  Bobojon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
-### Flutter Developer
+### I'm a professional Flutter developer mobile and web apps using Flutter with sleek UI designs and performance.
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
@@ -7,7 +7,20 @@
 - 👉 Flutter Developer Velox Software
 - 💻 The tech I'm interested Flutter/ML/AR etc.
 - ✨ I'm learning Flutter, Web scrapping, Automations etc.
-
+- 🎯 3+ years of experience in Flutter.
+- 🎯 I can get you mobile and responsive web app using Flutter.
+- 🎯 I use BloC Architecture & State management to keep up the performance of apps
+- 🎯 I always work on the code quality and project structure to ensure the code remains readable and maintainable in the future.
+- 🎯 My focus is always on performance, quality, and little details in the User Interface.
+- 🎯 I've helped Startups in Hong Kong, UK and in my own country in launching their product according to market
+- Experienced In:
+-   ▶ BloC State Management
+-   ▶ Firebase (Auth/database)
+-   ▶ REST APIs
+-   ▶ Google Maps Integration
+-   ▶ SQFlite/Hive
+-   ▶ Supabase
+-   ▶ UI Design and much more
 <br>
 <br>
 <br>
