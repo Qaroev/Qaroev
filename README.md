@@ -12,7 +12,7 @@
 - 🎯 I use BloC Architecture & State management to keep up the performance of apps
 - 🎯 I always work on the code quality and project structure to ensure the code remains readable and maintainable in the future.
 - 🎯 My focus is always on performance, quality, and little details in the User Interface.
-- 🎯 I've helped Startups in Hong Kong, UK and in my own country in launching their product according to market
+
 - Experienced In:
 -   ▶ BloC State Management
 -   ▶ Firebase (Auth/database)
