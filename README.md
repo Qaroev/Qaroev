@@ -2,7 +2,6 @@
 ### I'm a professional Flutter developer mobile and web apps using Flutter with sleek UI designs and performance.
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
-anykeyman
 #### Talking about my personal stuff:
 - 👉 Flutter Developer Velox Software
 - 💻 The tech I'm interested Flutter/ML/AR etc.
